@@ -1,6 +1,12 @@
 # 2021-ISGC08-ThaiMinhNguyen
 Kurs ISGC08
-## Gruppmedlemmar: Thai Minh Nguyen, Mathias Rajamäki
+## Gruppmedlemmar
+
+| Namn | Roll        
+| ------------- |-------------
+| Thai Minh Nguyen   | Repo admin och utvecklare 
+| Mathias Rajamäki   |  utvecklare     
+| Benneth Christiansson | Examinator och handledare   
 
 ### Kravspecifikation:
 Laborationen går ut på att bygga en komplett texteditor med ett grafiskt användargränssnitt i Java användande Swing.

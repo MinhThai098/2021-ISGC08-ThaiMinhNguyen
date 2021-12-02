@@ -43,7 +43,8 @@ Design modellen ska innehålla Use-case diagram, klassdiagram (alla attribut med
 
 
 ### Klassdiagram
-![image](https://user-images.githubusercontent.com/65395551/142213939-6f0362b6-5e63-4e20-8a2d-bb62e1791a38.png)
+![image](https://user-images.githubusercontent.com/65395551/144442235-e755f0bb-ffef-4023-a301-2bbd97e68b08.png)
+
 
 ### Sekvensdiagram
 

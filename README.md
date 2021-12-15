@@ -7,6 +7,13 @@ Kurs ISGC08
 | Thai Minh Nguyen   | Repo admin och utvecklare 
 | Mathias Rajamäki   |  utvecklare     
 | Benneth Christiansson | Examinator och handledare   
+### Labb 4 Inlämning
+
+### Klassdiagram
+![image](https://user-images.githubusercontent.com/65395551/146177904-d8b9e8af-a9cd-4cc5-ae42-753e3fe0942e.png)
+
+
+
 
 ### Kravspecifikation:
 Laborationen går ut på att bygga en komplett texteditor med ett grafiskt användargränssnitt i Java användande Swing.

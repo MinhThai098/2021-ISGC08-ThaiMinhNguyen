@@ -10,7 +10,8 @@ Kurs ISGC08
 ### Labb 4 Inlämning
 
 ### Klassdiagram
-![image](https://user-images.githubusercontent.com/65395551/146177904-d8b9e8af-a9cd-4cc5-ae42-753e3fe0942e.png)
+![image](https://user-images.githubusercontent.com/65395551/148652589-b4c58267-0b21-4e63-9532-1132871d154b.png)
+
 
 
 
